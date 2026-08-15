@@ -18,9 +18,8 @@
 
 - Third Year **B.Tech CSE** student
 - Aspiring **Software Development Engineer (SDE)**
-- **Generative AI 
+- Generative AI 
 - Computer Vision developer — real-time detection & recognition systems
-- **Cybersecurity** enthusiast
 - **Flutter** & Full-Stack developer
 - Focused on shipping **real-world products**, not just tutorials
 - Passionate about **AI, Software Engineering & Product Development**
