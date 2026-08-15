@@ -86,7 +86,6 @@ I believe the best way to learn technology is to **build real projects**, unders
 </p>
 
 * Git & GitHub
-* Jupyter Notebook
 * Anaconda
 * Figma
 * REST APIs
