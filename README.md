@@ -43,13 +43,13 @@ reach_me_at:         ranjitsenapati328@gmail.com
 
 </div>
 
-**AI / ML / Computer Vision**
+**AI / ML / Computer Vision**:
 Python · OpenCV · TensorFlow · scikit-learn · Ollama · Jupyter Notebook
 
-**App / Full-Stack**
+**App / Full-Stack**:
 Flutter · Java · JavaScript · HTML5 · CSS3 · Firebase
 
-**Tools & Systems**
+**Tools & Systems**:
 C · Git · GitHub · Linux · VS Code
 
 <br/>
