@@ -132,44 +132,6 @@ reach_me_at:      "ranjitsenapati328@gmail.com"
 </div>
 
 
-🐍 SNAKE GAME — animated contribution graph
-This needs a one-time setup (5 minutes) since it runs via GitHub Actions on YOUR repo, not this file alone:
-
-1. In your GitHub profile repo (RanjitSenapati/RanjitSenapati), go to Actions tab
-2. Create a new workflow file: .github/workflows/snake.yml
-3. Paste this:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: RanjitSenapati
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-4. Commit it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow)
-5. It creates an "output" branch with your snake SVG — then uncomment the block below
-   and it will animate your real contribution graph as a snake eating each square.
-
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/github-snake-dark.svg" width="100%"/>
