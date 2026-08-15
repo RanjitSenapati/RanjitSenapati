@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ranjit%20Senapati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20Python%20Developer%20%7C%20Final%20Year%20CSE&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ranjit%20Senapati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20Python%20Developer%20%7C%20Third%20Year%20CSE&descAlignY=52&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/RanjitSenapati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+Student;Generative+AI+%26+LLM+Developer;Computer+Vision+%7C+OpenCV+%7C+Python;Cybersecurity+Enthusiast;Flutter+%26+Full-Stack+Developer;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+Student;Generative+AI+;Computer+Vision+%7C+OpenCV+%7C+Python;Cybersecurity+Enthusiast;Flutter+%26+Full-Stack+Developer;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
 
-- Final Year **B.Tech CSE** student
+- Third Year **B.Tech CSE** student
 - Aspiring **Software Development Engineer (SDE)**
 - **Generative AI & LLM** developer — building with local models via Ollama
 - Computer Vision developer — real-time detection & recognition systems
@@ -143,61 +143,3 @@ C · Git · GitHub · Linux · VS Code
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <br/>
-
----
-
-## Snake Game Setup (do this once)
-
-The snake animation above needs a one-time setup on your GitHub account. Copy-paste these exactly:
-
-**Step 1 — Create the special repo (skip if you already have it)**
-Go to `github.com/new` → name it exactly `RanjitSenapati` (must match your username) → set Public → Create.
-
-**Step 2 — Add the workflow file**
-In that repo, create a new file at this exact path:
-```
-.github/workflows/snake.yml
-```
-
-**Step 3 — Paste this into it:**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: RanjitSenapati
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 4 — Commit** the file directly to `main`.
-
-**Step 5 — Run it once manually**
-Go to the **Actions** tab → click **Generate Snake** on the left → click **Run workflow** → confirm. Wait ~30–60 seconds for the green checkmark.
-
-**Step 6 — Confirm the output branch exists**
-Check the branch dropdown (next to "main") — you should now see a branch called `output`. That's where your generated snake SVG lives.
-
-**Done.** The snake image in this README will now render your real contribution graph and auto-refresh every 6 hours — no further steps needed.
