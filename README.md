@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/RanjitSenapati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+Student;Generative+AI+;Computer+Vision+%7C+OpenCV+%7C+Python;Cybersecurity+Enthusiast;Flutter+%26+Full-Stack+Developer;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;Generative+AI+;Computer+Vision+%7C+OpenCV+%7C+Python;+Full-Stack+Developer;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,7 +18,7 @@
 
 - Third Year **B.Tech CSE** student
 - Aspiring **Software Development Engineer (SDE)**
-- **Generative AI & LLM** developer — building with local models via Ollama
+- **Generative AI 
 - Computer Vision developer — real-time detection & recognition systems
 - **Cybersecurity** enthusiast
 - **Flutter** & Full-Stack developer
