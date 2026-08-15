@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ranjit%20Senapati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20Python%20Developer%20%7C%20Final%20Year%20CSE&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ranjit%20Senapati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20Python%20Developer%20%7C%20Third%20Year%20CSE&descAlignY=52&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/RanjitSenapati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+Student;Generative+AI+%26+LLM+Developer;Computer+Vision+%7C+OpenCV+%7C+Python;Cybersecurity+Enthusiast;Flutter+%26+Full-Stack+Developer;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;Generative+AI+%26+LLM+Developer;Computer+Vision+%7C+OpenCV+%7C+Python;Full-Stack+Developer;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,27 +18,25 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
 
-- 🎓 Final Year **B.Tech CSE** student
-- 💻 Aspiring **Software Development Engineer (SDE)**
-- 🤖 **Generative AI & LLM** developer — building with local models via Ollama
-- 👁️ Computer Vision developer — real-time detection & recognition systems
-- 🔒 **Cybersecurity** enthusiast
-- 📱 **Flutter** & Full-Stack developer
-- 🛠️ Focused on shipping **real-world products**, not just tutorials
-- 🎯 Passionate about **AI, Software Engineering & Product Development**
+- Third Year **B.Tech CSE** student
+- Aspiring **Software Development Engineer (SDE)**
+- **Generative AI & LLM** developer — building with local models via Ollama
+- Computer Vision developer — real-time detection & recognition systems
+- Focused on shipping **real-world products**, not just tutorials
+- Passionate about **AI, Software Engineering & Product Development**
 
 <br clear="right"/>
 
-```yaml
+
 current_focus:    "AI/ML systems + Computer Vision + Full-Stack apps"
-currently_learning: ["Deep Learning", "System Design", "Advanced DSA"]
+currently_learning: ["Deep Learning", "System Design", "DSA"]
 open_to:          "Open-source collaboration & AI/ML project work"
 reach_me_at:      "ranjitsenapati328@gmail.com"
-```
+
 
 <br/>
 
@@ -46,7 +44,7 @@ reach_me_at:      "ranjitsenapati328@gmail.com"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,flutter,java,c,html,css,git,github,firebase,vscode,linux&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,flutter,java,c,html,css,git,github,vscode,linux&theme=dark&perline=6" />
 
 </div>
 
@@ -63,16 +61,12 @@ reach_me_at:      "ranjitsenapati328@gmail.com"
 
 **App / Full-Stack**
 &nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools & Systems**
 &nbsp;
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -82,7 +76,7 @@ reach_me_at:      "ranjitsenapati328@gmail.com"
 
 <br/>
 
-## 🔥 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -99,19 +93,19 @@ reach_me_at:      "ranjitsenapati328@gmail.com"
 </div>
 
 **What it does:**
-- 📸 Detects & **recognizes** registered faces in real time via webcam (using OpenCV's LBPH recognizer)
-- ⏱️ Auto-logs **Entry / Exit time** and calculates total working hours per person
-- 🚩 Flags **Late Arrivals** and **Early Leaves** automatically
-- 📊 Exports everything to a formatted **Excel** sheet — one file per month, one sheet per day
-- 📈 Ships with a simple dashboard for attendance % and summary charts
-- ⚡ Chose OpenCV's built-in LBPH recognizer over `dlib`/`face_recognition` — no CMake or C++ build tools needed, installs with one `pip install`, and still fast enough for real-time use
+- Detects & **recognizes** registered faces in real time via webcam (using OpenCV's LBPH recognizer)
+- Auto-logs **Entry / Exit time** and calculates total working hours per person
+- Flags **Late Arrivals** and **Early Leaves** automatically
+- Exports everything to a formatted **Excel** sheet — one file per month, one sheet per day
+- Ships with a simple dashboard for attendance % and summary charts
+- Chose OpenCV's built-in LBPH recognizer over `dlib`/`face_recognition` — no CMake or C++ build tools needed, installs with one `pip install`, and still fast enough for real-time use
 
 **Pipeline:** `Register faces → Train LBPH model → Live webcam recognition → Auto-log entry/exit → Export to Excel → Dashboard`
 
 🔗 **[View Repository →](https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem)**
 
 <div align="center">
-<sub>💡 More projects coming — this repo list grows as I ship. Star it if it's useful to you!</sub>
+<sub>More projects coming — this repo list grows as I ship. Star it if it's useful to you!</sub>
 </div>
 
 <br/>
@@ -137,7 +131,7 @@ reach_me_at:      "ranjitsenapati328@gmail.com"
 
 </div>
 
-<!--
+
 🐍 SNAKE GAME — animated contribution graph
 This needs a one-time setup (5 minutes) since it runs via GitHub Actions on YOUR repo, not this file alone:
 
@@ -174,13 +168,13 @@ jobs:
 4. Commit it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow)
 5. It creates an "output" branch with your snake SVG — then uncomment the block below
    and it will animate your real contribution graph as a snake eating each square.
--->
 
-<!--
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/github-snake-dark.svg" width="100%"/>
 </div>
--->
+
 
 <br/>
 
@@ -202,7 +196,7 @@ jobs:
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -221,7 +215,7 @@ jobs:
 
 <br/>
 
-⭐ **If a project here helps you, a star means a lot.**
+ **If a project here helps you, a star means a lot.**
 
 </div>
 
