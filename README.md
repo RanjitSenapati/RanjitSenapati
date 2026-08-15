@@ -43,13 +43,13 @@ reach_me_at:         ranjitsenapati328@gmail.com
 
 </div>
 
-**AI / ML / Computer Vision**:
+**AI / ML / Computer Vision**:-
 Python · OpenCV · TensorFlow · scikit-learn · Ollama · Jupyter Notebook
 
-**App / Full-Stack**:
+**App / Full-Stack**:-
 Flutter · Java · JavaScript · HTML5 · CSS3 · Firebase
 
-**Tools & Systems**:
+**Tools & Systems**:-
 C · Git · GitHub · Linux · VS Code
 
 <br/>
@@ -131,7 +131,7 @@ C · Git · GitHub · Linux · VS Code
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
 
 <br/>
 
