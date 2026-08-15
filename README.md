@@ -112,7 +112,7 @@ Practical ML projects covering:
 * Model evaluation
 * Prediction
 
-**🔹 Computer Vision Projects**
+**Computer Vision Projects**
 
 Projects using:
 
@@ -121,7 +121,7 @@ Projects using:
 * Image Processing
 * Neural Networks
 
-**🔹 AI Applications**
+**AI Applications**
 
 Exploring practical AI applications using:
 
