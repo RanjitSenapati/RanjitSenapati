@@ -1,52 +1,18 @@
 <svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask id="m1"><rect class="reveal r1" x="0" y="0" width="0" height="40" fill="#fff"/></mask>
-    <mask id="m2"><rect class="reveal r2" x="0" y="0" width="0" height="40" fill="#fff"/></mask>
-    <mask id="m3"><rect class="reveal r3" x="0" y="0" width="0" height="40" fill="#fff"/></mask>
-    <mask id="m4"><rect class="reveal r4" x="0" y="0" width="0" height="40" fill="#fff"/></mask>
-  </defs>
-
-  <style>
-    text {
-      font-family: 'Courier New', monospace;
-      font-size: 20px;
-      font-weight: 600;
-      fill: #6366F1;
-    }
-    .line { opacity: 0; }
-    .g1 { animation: appear 12s linear infinite; }
-    .g2 { animation: appear 12s linear infinite; animation-delay: 3s; }
-    .g3 { animation: appear 12s linear infinite; animation-delay: 6s; }
-    .g4 { animation: appear 12s linear infinite; animation-delay: 9s; }
-    @keyframes appear {
-      0%   { opacity: 1; }
-      22%  { opacity: 1; }
-      24%  { opacity: 0; }
-      100% { opacity: 0; }
-    }
-
-    .r1 { animation: w1 12s linear infinite; }
-    .r2 { animation: w2 12s linear infinite; animation-delay: 3s; }
-    .r3 { animation: w3 12s linear infinite; animation-delay: 6s; }
-    .r4 { animation: w4 12s linear infinite; animation-delay: 9s; }
-
-    @keyframes w1 { 0% {width:0;} 12% {width:270px;} 24% {width:270px;} 100% {width:270px;} }
-    @keyframes w2 { 0% {width:0;} 12% {width:340px;} 24% {width:340px;} 100% {width:340px;} }
-    @keyframes w3 { 0% {width:0;} 12% {width:430px;} 24% {width:430px;} 100% {width:430px;} }
-    @keyframes w4 { 0% {width:0;} 12% {width:300px;} 24% {width:300px;} 100% {width:300px;} }
-
-    .cursor { fill: #6366F1; animation: blink 0.8s steps(1) infinite; }
-    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-  </style>
-
-  <g class="line g1">
-    <text x="20" y="25" mask="url(#m1)">Third Year B.Tech CSE Student</text>
-    <rect class="cursor" x="285" y="7" width="2" height="22"/>
-  </g>
-
-  <g class="line g2">
-    <text x="20" y="25" mask="url(#m2)">AI/ML Enthusiast|Python Developer</text>
-    <rect class="cursor" x="355" y="7" width="2" height="22"/>
-  </g>
-
- 
+<style>
+text { font-family: monospace; font-size: 20px; font-weight: 600; fill: #6366F1; }
+.line { opacity: 0; }
+.g1 { animation: appear 12s linear infinite; }
+.g2 { animation: appear 12s linear infinite; animation-delay: 3s; }
+.g3 { animation: appear 12s linear infinite; animation-delay: 6s; }
+.g4 { animation: appear 12s linear infinite; animation-delay: 9s; }
+@keyframes appear {
+0% { opacity: 1; }
+22% { opacity: 1; }
+24% { opacity: 0; }
+100% { opacity: 0; }
+}
+</style>
+<text class="line g1" x="20" y="25">Third Year B.Tech CSE Student</text>
+<text class="line g2" x="20" y="25">AI ML Enthusiasts| Python Developer</text>
+</svg>
