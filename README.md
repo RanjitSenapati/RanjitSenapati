@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ranjit%20Senapati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-time%20Computer%20Vision%20%26%20AI%20Systems&descAlignY=52&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Developer+%7C+Python+Developer;Building+Real-Time+Computer+Vision+Systems;From+Trained+Model+to+Live+Webcam+Demo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Developer+%7C+Python+Developer;Building+Real-Time+;From+Trained+Model+to+Live+Webcam+Demo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
