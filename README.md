@@ -1,53 +1,101 @@
-<br/>
+<div align="center">
 
-# Ranjit Senapati
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ranjit%20Senapati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-time%20Computer%20Vision%20%26%20AI%20Systems&descAlignY=52&descSize=17" width="100%"/>
 
-I build real-time computer vision systems for AI use cases — mostly Python and OpenCV, moving from raw model to something that runs live on a webcam and does something useful with what it sees.
-
-Third-year CSE student. Not chasing tutorials — chasing things that work end-to-end.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Developer+%7C+Python+Developer;Building+Real-Time+Computer+Vision+Systems;From+Trained+Model+to+Live+Webcam+Demo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-## What I've shipped
+<img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile+Views&color=6366f1&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Focus-Computer%20Vision-6366f1?style=for-the-badge&labelColor=1a1b27" />
 
-**[Face Recognition Attendance System](https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem)**
-Built during my internship at CTTC. Recognizes registered faces via webcam using OpenCV's LBPH recognizer, logs entry/exit automatically, flags late arrivals, and exports a formatted Excel report every day. I chose LBPH over `dlib`/`face_recognition` deliberately — no CMake, no C++ build chain, one `pip install`, and it's still fast enough for real-time use. That trade-off mattered more than squeezing out extra accuracy on a system meant to actually get deployed.
-
-**[Real-Time Emotion Detection](https://github.com/RanjitSenapati/Real-Time-Face-Emotion-Detection)**
-A CNN trained to classify five emotions, wired into a live webcam feed via Haar Cascade face detection. Faces get detected, cropped, resized to 48×48, fed to the model, and the predicted emotion gets drawn back onto the frame in real time.
-
-Both repos are public — code, not just descriptions.
+</div>
 
 <br/>
 
-## How I work
+## 🧑‍💻 About Me
 
-- I'd rather ship a working v1 with an honest list of what's next than polish something no one can run
-- If a dependency adds friction without adding value, I cut it — see the LBPH decision above
-- I document trade-offs when the "better" option wasn't obvious, because future-me (or a collaborator) will ask why
+<img align="right" width="280" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
 
-<br/>
+I build real-time computer vision systems — mostly Python and OpenCV, taking a trained model all the way to something that runs live on a webcam and does something useful with what it sees.
 
-## Currently
+- 🎓 Third Year **B.Tech CSE** student
+- 👁️ Focused on **real-time face & emotion recognition systems**
+- 🧠 Deepening **Deep Learning, System Design & DSA**
+- 🛠️ Building with **Python · OpenCV · TensorFlow · Flutter**
+- 🎯 I'd rather ship a working v1 than polish something no one can run
+- 📫 **ranjitsenapati328@gmail.com**
 
-Deepening Deep Learning fundamentals, System Design, and DSA — the foundation under everything above. Also exploring local LLM tooling with Ollama and Flutter for cross-platform work.
-
-<br/>
-
-## Stack
-
-`Python` `OpenCV` `TensorFlow` `Keras` `scikit-learn` `Flutter` `Java` `JavaScript` `Firebase` `Git`
+<br clear="right"/>
 
 <br/>
 
----
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,flutter,java,c,html,css,git,github,firebase,vscode,linux&theme=dark&perline=6" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 <br/>
 
-<details>
-<summary><b>Activity & stats</b> — contribution history, streaks, and language breakdown</summary>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎯 Face Recognition Attendance System</h3>
+
+Real-time attendance tracking via webcam using OpenCV's **LBPH recognizer**. Built during my internship at **CTTC**.
+
+- ✅ Auto-logs Entry/Exit + working hours
+- ✅ Flags Late Arrivals & Early Leaves
+- ✅ Exports formatted Excel reports monthly
+- ✅ Chose LBPH over `dlib` deliberately — no CMake, one `pip install`, still fast enough for real-time use
+
+`Python` `OpenCV` `Pandas`
+
+<a href="https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+<h3>😀 Real-Time Emotion Detection</h3>
+
+A trained **CNN** wired into a live webcam feed — detects a face, classifies the emotion, overlays it on screen in real time.
+
+- ✅ Live face detection via Haar Cascade
+- ✅ Classifies 5 emotion classes
+- ✅ Real-time bounding box + label overlay
+- ✅ Full pipeline: capture → detect → preprocess → predict → display
+
+`Python` `OpenCV` `Keras` `TensorFlow`
+
+<a href="https://github.com/RanjitSenapati/Real-Time-Face-Emotion-Detection"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>⭐ This list grows as I ship — a star means a lot if a repo helps you.</sub>
+</div>
 
 <br/>
+
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/github-snake-dark.svg" width="100%"/>
@@ -55,29 +103,74 @@ Deepening Deep Learning fundamentals, System Design, and DSA — the foundation 
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitSenapati&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitSenapati&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=github-dark-blue&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
-</details>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RanjitSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
 
 <br/>
 
----
+## 📈 2026 Roadmap
+
+| Goal | Status |
+|---|---|
+| Ship 3+ production-quality AI/ML projects with real deployments | 🟡 In progress |
+| Go deep on Deep Learning — architectures, not just APIs | 🟡 In progress |
+| Strong DSA foundation through consistent daily practice | 🟡 In progress |
+| Learn System Design fundamentals for scalable backends | ⚪ Planned |
+| First meaningful open-source contribution | ⚪ Planned |
+| Build a portfolio site showcasing best projects | ⚪ Planned |
+| Land an SDE / AI-ML role | 🎯 Target |
 
 <br/>
 
-*"The best way to predict the future is to invent it."* — Alan Kay
+## 💬
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."*
+— Alan Kay
+
+</div>
 
 <br/>
 
-[GitHub](https://github.com/RanjitSenapati) · [LinkedIn](https://www.linkedin.com/in/ranjit-senapati/) · [X](https://x.com/RanjitSena55475) · [Email](mailto:ranjitsenapati328@gmail.com)
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/RanjitSenapati" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ranjit-senapati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/RanjitSena55475" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/ranjitsenapati05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ranjitsenapati328@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
+
+<br/>
+
+⭐ **If a project here helps you, a star means a lot.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
