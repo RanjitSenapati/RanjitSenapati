@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/header.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/typing.svg" width="600" height="40" alt="rotating tagline" />
 
 <br/>
 
