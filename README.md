@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/header.svg" width="100%"/>
 
-
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/typing.svg" width="600" height="40" alt="rotating tagline" />
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile+Views&color=6366f1&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision-6366f1?style=for-the-badge&labelColor=1a1b27" />
+
 
 </div>
 
@@ -18,11 +18,10 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
 
-I build real-time computer vision systems — mostly Python and OpenCV, taking a trained model all the way to something that runs live on a webcam and does something useful with what it sees.
 
 - 🎓 Third Year **B.Tech CSE** student
-- 🧠 Studying **Deep Learning, System Design & DSA**
-- 🛠️ Building with **Python · OpenCV · TensorFlow .**
+- 👁️ Focused on **real-time face & emotion recognition systems**
+- 🧠 Learning **Deep Learning, System Design & DSA**
 - 📫 **ranjitsenapati328@gmail.com**
 
 <br clear="right"/>
@@ -41,9 +40,6 @@ I build real-time computer vision systems — mostly Python and OpenCV, taking a
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -120,17 +116,6 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 <img src="https://github-profile-trophy.vercel.app/?username=RanjitSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
-## 💬
-
-<div align="center">
-
-*"The best way to predict the future is to invent it."*
-— Alan Kay
-
-</div>
-
-<br/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -147,7 +132,7 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=550&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
+<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/philosophy.svg" width="550" height="30" alt="Learn, Build, Break, Debug, Improve, Repeat" />
 
 <br/>
 
