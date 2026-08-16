@@ -1,50 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ranjit%20Senapati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20Python%20Developer%20%7C%20Third%20Year%20CSE&descAlignY=52&descSize=18" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   ranjit@dev:~$ whoami                                        ║
+║   Ranjit Senapati — AI/ML Developer · Python Developer        ║
+║                                                                ║
+║   ranjit@dev:~$ status                                        ║
+║   Third Year B.Tech CSE · Building real-time AI systems        ║
+║                                                                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-<a href="https://github.com/RanjitSenapati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;Generative+AI+%26+Computer+Vision+Developer;Building+with+Python+%7C+OpenCV+%7C+Flutter;Turning+Ideas+Into+Real+Working+Software+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile%20Views&color=1a1b27&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-shipping-1a1b27?style=flat-square" />
 
 </div>
 
 <br/>
 
-## 📋 About Me
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
+### `01` Who I Am
 
+Third-year CSE student building real AI/ML and computer vision projects — not just tutorial-following. My focus right now is real-time systems: face recognition, emotion detection, and the full pipeline from raw model to something that actually runs live on a webcam.
 
-class RanjitSenapati:
-    def __init__(self):
-        self.name = "Ranjit Senapati"
-        self.role = "AI/ML Developer · Python Developer"
-        self.year = "Third Year, B.Tech CSE"
-        self.location = "India"
-        self.interests = ["Generative AI", "Computer Vision", "Full-Stack Dev"]
-        self.currently_learning = ["Deep Learning", "System Design", "Advanced DSA"]
+I care more about shipping something that works end-to-end than collecting half-finished notebooks. Currently deepening my foundations in Deep Learning, System Design, and DSA so the next things I build hold up under real use.
 
-    def philosophy(self):
-        return "Learn → Build → Break → Debug → Improve → Repeat."
+**Currently exploring:** Generative AI, Ollama-based local LLM tooling, and Flutter for cross-platform apps.
 
-    def say_hi(self):
-        print("Building real things > watching tutorials. Let's connect!")
+</td>
+<td width="35%" valign="top">
 
-me = RanjitSenapati()
-me.say_hi()
+### `02` Quick Facts
 
+| | |
+|---|---|
+| 🎓 | Third Year, B.Tech CSE |
+| 🧠 | AI/ML · Python Developer |
+| 👁️ | Computer Vision focus |
+| 📍 | India |
+| 📫 | ranjitsenapati328@gmail.com |
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+### `03` Stack
 
 <div align="center">
 
@@ -52,130 +59,112 @@ me.say_hi()
 
 </div>
 
-**AI / ML / Computer Vision**
-Python · OpenCV · TensorFlow · scikit-learn · Ollama · Jupyter Notebook
-
-**App / Full-Stack**
-Flutter · Java · JavaScript · HTML5 · CSS3 · Firebase
-
-**Tools & Systems**
-C · Git · GitHub · Linux · VS Code
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎯 Face Recognition Attendance System
+**AI / ML / CV**
 
-A real-time, end-to-end face recognition attendance system — built during my internship at **CTTC**.
-
-**Stack:** Python · OpenCV · Pandas · Jupyter Notebook
-
-- Real-time face recognition via webcam (LBPH)
-- Auto-logs Entry/Exit + working hours
-- Flags Late Arrivals & Early Leaves
-- Exports formatted Excel reports monthly
-
-**[View Repo →](https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem)**
+Python
+OpenCV
+TensorFlow
+scikit-learn
+Ollama
+Jupyter Notebook
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 😀 Real-Time Emotion Detection
+**App / Full-Stack**
 
-A real-time facial emotion recognition system using a trained CNN — detects and classifies emotion live via webcam.
+Flutter
+Java
+JavaScript
+HTML5 / CSS3
+Firebase
 
-**Stack:** Python · OpenCV · Keras · TensorFlow
+</td>
+<td width="33%" valign="top">
 
-- Live face detection via Haar Cascade
-- CNN classifies 5 emotion classes
-- Real-time bounding box + label overlay
-- Built and trained from scratch
+**Tools & Systems**
 
-**[View Repo →](https://github.com/RanjitSenapati/Real-Time-Face-Emotion-Detection)**
+C
+Git / GitHub
+Linux
+VS Code
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<sub>More projects coming — this list grows as I ship. Star a repo if it's useful to you!</sub>
-</div>
+---
 
-<br/>
+### `04` Projects Worth Looking At
 
-## 🐍 Watch My Contributions Get Eaten
+**→ [Face Recognition Attendance System](https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem)**
+Real-time attendance tracking via webcam using OpenCV's LBPH recognizer. Auto-logs entry/exit, flags late arrivals, exports to Excel monthly. Built during my internship at CTTC.
+`Python` `OpenCV` `Pandas`
+
+**→ [Real-Time Emotion Detection](https://github.com/RanjitSenapati/Real-Time-Face-Emotion-Detection)**
+Live facial emotion classification using a trained CNN. Detects a face, runs it through the model, overlays the predicted emotion on the video feed in real time.
+`Python` `OpenCV` `Keras` `TensorFlow`
+
+<sub>This list grows as I ship — star a repo if it's useful to you.</sub>
+
+---
+
+### `05` Contribution Graph, Eaten Alive
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/github-snake-dark.svg" width="100%"/>
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+### `06` Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitSenapati&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitSenapati&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=github-dark-blue&hide_border=true" height="160"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </div>
 
-<br/>
+---
 
-## 📈 2026 Roadmap
+### `07` Where This Is Headed
 
-| Goal | Status |
-|---|---|
-| Ship 3+ production-quality AI/ML projects with real deployments | 🟡 In progress |
-| Go deep on Deep Learning — architectures, not just APIs | 🟡 In progress |
-| Strong DSA foundation through consistent daily practice | 🟡 In progress |
-| Learn System Design fundamentals for scalable backends | ⚪ Planned |
-| First meaningful open-source contribution | ⚪ Planned |
-| Build a portfolio site showcasing best projects | ⚪ Planned |
-| Land an SDE / AI-ML role | 🎯 Target |
+```
+[■■■■■■□□□□] Ship 3+ production-quality AI/ML projects
+[■■■■□□□□□□] Go deep on Deep Learning architectures
+[■■■■■□□□□□] Build strong DSA foundations
+[■■□□□□□□□□] Learn System Design fundamentals
+[□□□□□□□□□□] First real open-source contribution
+[□□□□□□□□□□] Portfolio site with project writeups
+[■□□□□□□□□□] Land an SDE / AI-ML role
+```
 
-<br/>
+---
 
-## 💬 A Quote I Keep Coming Back To
-
-<div align="center">
+### `08` A Line I Keep Coming Back To
 
 > *"The best way to predict the future is to invent it."*
 > — Alan Kay
 
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
+---
 
 <div align="center">
 
-[GitHub](https://github.com/RanjitSenapati) · [LinkedIn](https://www.linkedin.com/in/ranjit-senapati/) · [X](https://x.com/RanjitSena55475) · [Instagram](https://www.instagram.com/ranjitsenapati05/) · [Email](mailto:ranjitsenapati328@gmail.com)
+**[GitHub](https://github.com/RanjitSenapati)** · **[LinkedIn](https://www.linkedin.com/in/ranjit-senapati/)** · **[X](https://x.com/RanjitSena55475)** · **[Instagram](https://www.instagram.com/ranjitsenapati05/)** · **[Email](mailto:ranjitsenapati328@gmail.com)**
+
+`Learn → Build → Break → Debug → Improve → Repeat.`
+
+⭐ If a project here helps you, a star means a lot.
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
-
-<br/>
-
-⭐ **If a project here helps you, a star means a lot.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
