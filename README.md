@@ -20,7 +20,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
 
-```python
+
 class RanjitSenapati:
     def __init__(self):
         self.name = "Ranjit Senapati"
@@ -38,7 +38,7 @@ class RanjitSenapati:
 
 me = RanjitSenapati()
 me.say_hi()
-```
+
 
 <br clear="right"/>
 
