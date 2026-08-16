@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ranjit%20Senapati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-time%20Computer%20Vision%20%26%20AI%20Systems&descAlignY=52&descSize=17" width="100%"/>
+# Ranjit Senapati
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Developer+%7C+Python+Developer;Building+Real-Time+;From+Trained+Model+to+Live+Webcam+Demo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Developer+%7C+Python+Developer;Building+Real-Time+Computer+Vision+Systems;Model+to+Live+Webcam+Demo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -165,12 +165,10 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=550&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." alt="Philosophy" />
 
 <br/>
 
 ⭐ **If a project here helps you, a star means a lot.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
