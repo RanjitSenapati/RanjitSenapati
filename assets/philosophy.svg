@@ -1,0 +1,11 @@
+<svg width="550" height="30" viewBox="0 0 550 30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'Courier New', monospace;
+      font-size: 15px;
+      font-weight: 500;
+      fill: #94A3B8;
+    }
+  </style>
+  <text x="275" y="20" text-anchor="middle">Learn → Build → Break → Debug → Improve → Repeat.</text>
+</svg>
