@@ -1,0 +1,26 @@
+<svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'Courier New', monospace;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #6366F1;
+    }
+    .line { opacity: 0; }
+    .l1 { animation: show 8s linear infinite; }
+    .l2 { animation: show 8s linear infinite; animation-delay: 2s; }
+    .l3 { animation: show 8s linear infinite; animation-delay: 4s; }
+    .l4 { animation: show 8s linear infinite; animation-delay: 6s; }
+    @keyframes show {
+      0%   { opacity: 0; }
+      2%   { opacity: 1; }
+      23%  { opacity: 1; }
+      25%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <text class="line l1" x="300" y="25" text-anchor="middle">Third Year B.Tech CSE Student</text>
+  <text class="line l2" x="300" y="25" text-anchor="middle">AI/ML Developer | Python Developer</text>
+  <text class="line l3" x="300" y="25" text-anchor="middle">Building Real-Time Computer Vision Systems</text>
+  <text class="line l4" x="300" y="25" text-anchor="middle">Model to Live Webcam Demo 🚀</text>
+</svg>
