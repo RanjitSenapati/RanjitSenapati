@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8C7A,100:1B4B6B&height=200&section=header&text=Ranjit%20Senapati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Computer%20Vision%20%26%20AI%20Systems&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Developer+%7C+Python+Developer;Building+Real-Time+Computer+Vision+Systems;Model+to+Live+Webcam+Demo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Enthusiastic +%7C+Python+Developer;%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -21,10 +21,8 @@
 I build real-time computer vision systems — mostly Python and OpenCV, taking a trained model all the way to something that runs live on a webcam and does something useful with what it sees.
 
 - 🎓 Third Year **B.Tech CSE** student
-- 👁️ Focused on **real-time face & emotion recognition systems**
-- 🧠 Deepening **Deep Learning, System Design & DSA**
-- 🛠️ Building with **Python · OpenCV · TensorFlow · Flutter**
-- 🎯 I'd rather ship a working v1 than polish something no one can run
+- 🧠 Studying **Deep Learning, System Design & DSA**
+- 🛠️ Building with **Python · OpenCV · TensorFlow .**
 - 📫 **ranjitsenapati328@gmail.com**
 
 <br clear="right"/>
@@ -122,22 +120,6 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 <img src="https://github-profile-trophy.vercel.app/?username=RanjitSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
-<br/>
-
-## 📈 2026 Roadmap
-
-| Goal | Status |
-|---|---|
-| Ship 3+ production-quality AI/ML projects with real deployments | 🟡 In progress |
-| Go deep on Deep Learning — architectures, not just APIs | 🟡 In progress |
-| Strong DSA foundation through consistent daily practice | 🟡 In progress |
-| Learn System Design fundamentals for scalable backends | ⚪ Planned |
-| First meaningful open-source contribution | ⚪ Planned |
-| Build a portfolio site showcasing best projects | ⚪ Planned |
-| Land an SDE / AI-ML role | 🎯 Target |
-
-<br/>
-
 ## 💬
 
 <div align="center">
@@ -172,5 +154,3 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 ⭐ **If a project here helps you, a star means a lot.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8C7A,100:1B4B6B&height=100&section=footer" width="100%"/>
