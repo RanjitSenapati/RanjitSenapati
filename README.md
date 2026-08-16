@@ -1,127 +1,59 @@
-<div align="center">
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   ranjit@dev:~$ whoami                                        ║
-║   Ranjit Senapati — AI/ML Developer · Python Developer        ║
-║                                                                ║
-║   ranjit@dev:~$ status                                        ║
-║   Third Year B.Tech CSE · Building real-time AI systems        ║
-║                                                                ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Ranjit Senapati
 
-<img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile%20Views&color=1a1b27&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/status-shipping-1a1b27?style=flat-square" />
+I build real-time computer vision systems for AI use cases — mostly Python and OpenCV, moving from raw model to something that runs live on a webcam and does something useful with what it sees.
 
-</div>
+Third-year CSE student. Not chasing tutorials — chasing things that work end-to-end.
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+## What I've shipped
 
-### `01` Who I Am
+**[Face Recognition Attendance System](https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem)**
+Built during my internship at CTTC. Recognizes registered faces via webcam using OpenCV's LBPH recognizer, logs entry/exit automatically, flags late arrivals, and exports a formatted Excel report every day. I chose LBPH over `dlib`/`face_recognition` deliberately — no CMake, no C++ build chain, one `pip install`, and it's still fast enough for real-time use. That trade-off mattered more than squeezing out extra accuracy on a system meant to actually get deployed.
 
-Third-year CSE student building real AI/ML and computer vision projects — not just tutorial-following. My focus right now is real-time systems: face recognition, emotion detection, and the full pipeline from raw model to something that actually runs live on a webcam.
+**[Real-Time Emotion Detection](https://github.com/RanjitSenapati/Real-Time-Face-Emotion-Detection)**
+A CNN trained to classify five emotions, wired into a live webcam feed via Haar Cascade face detection. Faces get detected, cropped, resized to 48×48, fed to the model, and the predicted emotion gets drawn back onto the frame in real time.
 
-I care more about shipping something that works end-to-end than collecting half-finished notebooks. Currently deepening my foundations in Deep Learning, System Design, and DSA so the next things I build hold up under real use.
+Both repos are public — code, not just descriptions.
 
-**Currently exploring:** Generative AI, Ollama-based local LLM tooling, and Flutter for cross-platform apps.
+<br/>
 
-</td>
-<td width="35%" valign="top">
+## How I work
 
-### `02` Quick Facts
+- I'd rather ship a working v1 with an honest list of what's next than polish something no one can run
+- If a dependency adds friction without adding value, I cut it — see the LBPH decision above
+- I document trade-offs when the "better" option wasn't obvious, because future-me (or a collaborator) will ask why
 
-| | |
-|---|---|
-| 🎓 | Third Year, B.Tech CSE |
-| 🧠 | AI/ML · Python Developer |
-| 👁️ | Computer Vision focus |
-| 📍 | India |
-| 📫 | ranjitsenapati328@gmail.com |
+<br/>
 
-</td>
-</tr>
-</table>
+## Currently
 
----
+Deepening Deep Learning fundamentals, System Design, and DSA — the foundation under everything above. Also exploring local LLM tooling with Ollama and Flutter for cross-platform work.
 
-### `03` Stack
+<br/>
 
-<div align="center">
+## Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,flutter,java,c,html,css,git,github,firebase,vscode,linux&theme=dark&perline=6" />
+`Python` `OpenCV` `TensorFlow` `Keras` `scikit-learn` `Flutter` `Java` `JavaScript` `Firebase` `Git`
 
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**AI / ML / CV**
-
-Python
-OpenCV
-TensorFlow
-scikit-learn
-Ollama
-Jupyter Notebook
-
-</td>
-<td width="33%" valign="top">
-
-**App / Full-Stack**
-
-Flutter
-Java
-JavaScript
-HTML5 / CSS3
-Firebase
-
-</td>
-<td width="33%" valign="top">
-
-**Tools & Systems**
-
-C
-Git / GitHub
-Linux
-VS Code
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-### `04` Projects Worth Looking At
+<br/>
 
-**→ [Face Recognition Attendance System](https://github.com/RanjitSenapati/FaceTrackingAttendanceSystem)**
-Real-time attendance tracking via webcam using OpenCV's LBPH recognizer. Auto-logs entry/exit, flags late arrivals, exports to Excel monthly. Built during my internship at CTTC.
-`Python` `OpenCV` `Pandas`
+<details>
+<summary><b>Activity & stats</b> — contribution history, streaks, and language breakdown</summary>
 
-**→ [Real-Time Emotion Detection](https://github.com/RanjitSenapati/Real-Time-Face-Emotion-Detection)**
-Live facial emotion classification using a trained CNN. Detects a face, runs it through the model, overlays the predicted emotion on the video feed in real time.
-`Python` `OpenCV` `Keras` `TensorFlow`
-
-<sub>This list grows as I ship — star a repo if it's useful to you.</sub>
-
----
-
-### `05` Contribution Graph, Eaten Alive
+<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/github-snake-dark.svg" width="100%"/>
 </div>
 
----
-
-### `06` Stats
+<br/>
 
 <div align="center">
 
@@ -136,35 +68,16 @@ Live facial emotion classification using a trained CNN. Detects a face, runs it 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </div>
 
----
+</details>
 
-### `07` Where This Is Headed
-
-```
-[■■■■■■□□□□] Ship 3+ production-quality AI/ML projects
-[■■■■□□□□□□] Go deep on Deep Learning architectures
-[■■■■■□□□□□] Build strong DSA foundations
-[■■□□□□□□□□] Learn System Design fundamentals
-[□□□□□□□□□□] First real open-source contribution
-[□□□□□□□□□□] Portfolio site with project writeups
-[■□□□□□□□□□] Land an SDE / AI-ML role
-```
+<br/>
 
 ---
 
-### `08` A Line I Keep Coming Back To
+<br/>
 
-> *"The best way to predict the future is to invent it."*
-> — Alan Kay
+*"The best way to predict the future is to invent it."* — Alan Kay
 
----
+<br/>
 
-<div align="center">
-
-**[GitHub](https://github.com/RanjitSenapati)** · **[LinkedIn](https://www.linkedin.com/in/ranjit-senapati/)** · **[X](https://x.com/RanjitSena55475)** · **[Instagram](https://www.instagram.com/ranjitsenapati05/)** · **[Email](mailto:ranjitsenapati328@gmail.com)**
-
-`Learn → Build → Break → Debug → Improve → Repeat.`
-
-⭐ If a project here helps you, a star means a lot.
-
-</div>
+[GitHub](https://github.com/RanjitSenapati) · [LinkedIn](https://www.linkedin.com/in/ranjit-senapati/) · [X](https://x.com/RanjitSena55475) · [Email](mailto:ranjitsenapati328@gmail.com)
