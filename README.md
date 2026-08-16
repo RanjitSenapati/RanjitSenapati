@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Third+Year+B.Tech+CSE+Student;AI%2FML+Enthusiastic +%7C+Python+Developer;%F0%9F%9A%80" alt="Typing SVG" />
+
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/typing.svg" width="600" height="40" alt="rotating tagline" />
 <br/>
 
