@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile+Views&color=6366f1&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
 
 </div>
