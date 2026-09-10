@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=Ranjit%20Senapati;AI%20%2F%20ML%20Engineer;Data%20Analytics%20Explorer;Generative%20AI%20Explorer;Full-Stack%20Web%20Developer&template=typewriter-terminal&height=70&duration=8s" alt="Ranjit Senapati — AI/ML, Data Analytics, Generative AI, Full-Stack Web Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ranjit+Senapati;AI+%2F+ML+Engineer;Data+Analytics+Explorer;Generative+AI+Explorer;Full-Stack+Web+Developer" alt="Typing SVG" />
 
 <br/>
 
