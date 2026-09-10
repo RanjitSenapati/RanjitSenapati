@@ -2,12 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/header.svg" width="100%"/>
 
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile+Views&color=6366f1&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
-
 
 </div>
 
@@ -17,9 +15,10 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/ykbrbr/ykbrbr/main/assets/coding.gif" alt="coding animation" />
 
-
 - 🎓 Third Year **B.Tech CSE** student
-- 👁️ Focused on **real-time face & emotion recognition systems**
+- 🤖 Interested in **AI / Machine Learning, Data Analytics & Generative AI**
+- 🌐 Also building things on the **Web Development** side
+- 👁️ Currently focused on **real-time face & emotion recognition systems**
 - 🧠 Learning **Deep Learning, System Design & DSA**
 - 📫 **ranjitsenapati328@gmail.com**
 
@@ -27,19 +26,47 @@
 
 <br/>
 
+## 🎯 What I'm Into
+
+<div align="center">
+
+| 🤖 AI / ML | 📊 Data Analytics | ✨ Generative AI | 🌐 Web Dev |
+|:---:|:---:|:---:|:---:|
+| Computer Vision, CNNs, real-time inference | Cleaning, exploring & visualizing data with Pandas | Exploring LLMs & GenAI tooling | React, Node.js, Django-powered apps |
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,flutter,java,c,html,css,git,github,firebase,vscode,linux&theme=dark&perline=6" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark&perline=6" />
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,html,css&theme=dark&perline=6" />
+
+<br/><br/>
+
+**AI / ML & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=6" />
+<br/>
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+<br/><br/>
+
+**Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux&theme=dark&perline=6" />
 
 </div>
 
@@ -100,7 +127,7 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitSenapati&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=tokyonight&hide_border=true" height="165"/>
@@ -114,6 +141,8 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RanjitSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
+
+<br/>
 
 ## 🌐 Connect With Me
 
