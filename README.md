@@ -138,10 +138,6 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/activity-graph.svg" width="100%"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RanjitSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
 <br/>
 
 ## 🌐 Connect With Me
