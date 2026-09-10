@@ -135,7 +135,7 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/output/activity-graph.svg" width="100%"/>
 </div>
 
 <div align="center">
