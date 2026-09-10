@@ -14,8 +14,6 @@
 
   <text x="600" y="85" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">
     Ranjit Senapati
-    <animate attributeName="opacity" dur="12.5s" begin="0s" repeatCount="indefinite"
-      keyTimes="0;0.2;0.24;0.36;0.4;1" values="0;0;1;1;0;0"/>
   </text>
 
   <text x="600" y="130" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="24" font-weight="700" fill="#5EEAD4" opacity="0">
