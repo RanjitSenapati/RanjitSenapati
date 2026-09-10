@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Analytics+Explorer;Generative+AI+Explorer;Full-Stack+Web+Developer" alt="Typing SVG" />
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=Ranjit%20Senapati;AI%20%2F%20ML%20Engineer;Data%20Analytics%20Explorer;Generative%20AI%20Explorer;Full-Stack%20Web%20Developer&template=typewriter-terminal&height=70&duration=8s" alt="Ranjit Senapati — AI/ML, Data Analytics, Generative AI, Full-Stack Web Developer" />
 
 <br/>
 
@@ -44,37 +44,28 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark&perline=6" height="65"/>
-
-<br/><br/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=dark&perline=6" height="65"/>
-
-<br/><br/>
-
-### AI / ML & Data Analytics
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,py&theme=dark&perline=6" height="65"/>
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux&theme=dark&perline=6" height="65"/>
-
-<br/><br/>
-
-### Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,mongodb,kubernetes&theme=dark&perline=6" height="65"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark&perline=6" height="55"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web Development</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=dark&perline=6" height="55"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML &amp; Data Analytics</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,py&theme=dark&perline=6" height="55"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &amp; Platforms</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux&theme=dark&perline=6" height="55"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Currently Exploring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,fastapi,mongodb,kubernetes&theme=dark&perline=6" height="55"/></td>
+  </tr>
+</table>
 
 
 <br/>
