@@ -130,7 +130,7 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/stats.svg" height="165"/>
 <img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/top-langs.svg" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/streak-stats.svg" height="165"/>
 
 </div>
 
