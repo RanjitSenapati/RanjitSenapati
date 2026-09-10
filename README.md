@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Analytics+Explorer;Generative+AI+Explorer;Full-Stack+Web+Developer" alt="Typing SVG" />
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile+Views&color=6366f1&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
 
@@ -42,33 +46,36 @@
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark&perline=6" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark&perline=6" height="65"/>
 
 <br/><br/>
 
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,html,css&theme=dark&perline=6" />
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=dark&perline=6" height="65"/>
 
 <br/><br/>
 
-**AI / ML & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=6" />
-<br/>
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### AI / ML & Data Analytics
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,py&theme=dark&perline=6" height="65"/>
 
 <br/><br/>
 
-**Database & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux&theme=dark&perline=6" />
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux&theme=dark&perline=6" height="65"/>
+
+<br/><br/>
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,mongodb,kubernetes&theme=dark&perline=6" height="65"/>
 
 </div>
+
 
 <br/>
 
