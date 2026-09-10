@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ranjit+Senapati;AI+%2F+ML+Engineer;Data+Analytics+Explorer;Generative+AI+Explorer;Full-Stack+Web+Developer" alt="Typing SVG" />
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=RanjitSenapati&label=Profile+Views&color=6366f1&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
 
