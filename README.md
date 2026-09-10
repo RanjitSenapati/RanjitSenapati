@@ -127,8 +127,8 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RanjitSenapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitSenapati&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/stats.svg" height="165"/>
+<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/top-langs.svg" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=tokyonight&hide_border=true" height="165"/>
 
