@@ -123,24 +123,8 @@ A trained **CNN** wired into a live webcam feed — detects a face, classifies t
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/stats.svg" height="165"/>
-<img src="https://raw.githubusercontent.com/RanjitSenapati/RanjitSenapati/main/assets/top-langs.svg" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=RanjitSenapati&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitSenapati&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RanjitSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
 
 <br/>
 
