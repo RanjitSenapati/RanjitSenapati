@@ -4,8 +4,8 @@
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RanjitSenapati.RanjitSenapati&left_text=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RanjitSenapati.RanjitSenapati&left_text=Profile%20Views&left_color=%231a1b27&right_color=%236366f1" />
+<img src="https://img.shields.io/github/followers/RanjitSenapati?label=Followers&style=flat-square&color=6366f1&labelColor=1a1b27" />
 
 </div>
 
